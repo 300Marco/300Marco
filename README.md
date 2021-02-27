@@ -6,7 +6,7 @@
 
 <p><strong>👉Sobre mim</strong></p>
 
-<p>Estudante de desenvolvimento web com foco em tecnologias front-end e back-end 🖥️</p>
+<p>Estudante de desenvolvimento web com foco em tecnologias front-end 🖥️</p>
 
 <p>Tenho amor pela tecnologia web e com isso venho aprendendo técnicas de desenvolvimento, meu atual objetivo é me alimentar destes códigos, porque minha sede de conhecimento é grande. </p>
 
