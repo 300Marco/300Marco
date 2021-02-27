@@ -4,11 +4,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/300Marco)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/marco-jsantana/)
 
-<br><strong>👉Sobre mim</strong>
+<p><strong>👉Sobre mim</strong></p>
 
-<br>Estudante de desenvolvimento web com foco em tecnologias front-end e beck-end 🖥️
+<p>Estudante de desenvolvimento web com foco em tecnologias front-end e beck-end 🖥️</p>
 
-<br>Tenho amor pela tecnologia web e com isso venho aprendendo técnicas de desenvolvimento, meu atual objetivo é me alimentar destes códigos, porque minha sede de conhecimento é grande.  
+<p>Tenho amor pela tecnologia web e com isso venho aprendendo técnicas de desenvolvimento, meu atual objetivo é me alimentar destes códigos, porque minha sede de conhecimento é grande. </p>
 
 <ul>
   <li>✅ Buscando conhecimento para colaborar em projetos</li>
