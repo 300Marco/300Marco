@@ -8,19 +8,18 @@
 
 <p>Estudante de desenvolvimento web com foco em tecnologias front-end 🖥️</p>
 
-<p>Tenho amor pela tecnologia web e com isso venho aprendendo técnicas de desenvolvimento, meu atual objetivo é me alimentar destes códigos, pois minha sede de conhecimento é grande. </p>
+<p>Tenho amor pela tecnologia web e com isso venho aprendendo técnicas de desenvolvimento, meu atual objetivo é me alimentar destes códigos, porque minha sede de conhecimento é grande. </p>
 
 <ul>
   <li>✅ Buscando conhecimento para colaborar em projetos</li>
   <li>❤️ Amor por programação</li>
   <li>🤝 Posso te ajudar com o que aprendi e juntos evoluir</li>
-  <li>📙 Atualmente aprendendo para alcançar o próximo nível</li>
+  <li>📙 Atualmente aprendendo e, em busca do próximo nível</li>
 </ul>
 
 
 
 #
-<strong>Tecnologias e Ferramentas</strong><br><br>
 <strong>Tecnologias e Ferramentas</strong><br><br>
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://www.w3schools.com/html/)](https://www.w3schools.com/html/)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://www.w3schools.com/css/)](https://www.w3schools.com/css/)
