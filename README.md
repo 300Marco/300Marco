@@ -8,7 +8,7 @@
 
 <p>Estudante de desenvolvimento web com foco em tecnologias front-end 🖥️</p>
 
-<p>Tenho amor pela tecnologia web e com isso venho aprendendo técnicas de desenvolvimento, meu atual objetivo é me alimentar destes códigos, porque minha sede de conhecimento é grande. </p>
+<p>Tenho amor pela tecnologia web e com isso venho aprendendo técnicas de desenvolvimento, meu atual objetivo é continuar me desenvolvendo e, conquistar um espaço como Desenvolvedor Web no mercado de trabalho. </p>
 
 <ul>
   <li>✅ Buscando conhecimento para colaborar em projetos</li>
